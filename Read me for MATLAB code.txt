@@ -1,0 +1,6 @@
+1. Code is implemented in MATLAB R 2016B.
+2. There are two separate algorithms for kmeans, one to cluster gray scale data other to cluster color data.
+3. Clusters and its centers are stored and then used.
+4. Separate functionality is written for cost function and gradient descent.
+5. Data.csv file is attached
+6. lr.m file is the main linear regression code
